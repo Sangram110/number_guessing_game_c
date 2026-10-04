@@ -60,5 +60,6 @@ int main() {
             break;
         }
     } while (1);
+    goodbye_message();
     return 0;
 }
